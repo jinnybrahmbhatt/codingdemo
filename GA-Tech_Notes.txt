@@ -1,0 +1,61 @@
+https://courses.bootcampspot.com/courses/2866/assignments/45761?module_item_id=845267
+https://www.linkedin.com/in/hobertbush/
+Manik Kaur
+Hitarth Smart
+https://courses.bootcampspot.com/courses/2866/pages/0-navigating-this-course?module_item_id=845234
+
+In addition to email, you are welcome to schedule a meeting at any time with your SSM by
+using this link: https://calendly.com/victorianahley/20mins
+
+https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide
+
+
+Quick setup — if you’ve done this kind of thing before
+or	
+https://github.com/jinnybrahmbhatt/GA-BCS.git
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
+
+…or create a new repository on the command line
+echo "# GA-BCS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jinnybrahmbhatt/GA-BCS.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/jinnybrahmbhatt/GA-BCS.git
+git branch -M main
+git push -u origin main
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+https://github.com/jinnybrahmbhatt/GA-BCS
+https://app.slack.com/client/T04CT6HU59U/C04CT8ARY7Q
+
+file:///C:/Program%20Files/Git/ReleaseNotes.html
+
+--this is for slack
+https://app.slack.com/client/T04572S3H7W/setup-welcome
+https://app.slack.com/ssb/signin?ssb_vid=82b09d5d533f6374f3f2bcc818ed701b&ssb_instance_id=cc1eade7-dc87-405b-a789-d8663eee91da&v=4.29.149&from_desktop_app=1#/select
+
+https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-VIRT-DATA-PT-12-2022-U-LOLC#login-pane
+
+
+ssh key
+RSA/sha2-512, RSA/sha2-256, Ed25519, ECDSA/secp256k1, ECDSA/nistp521, ECDSA/nistp384, ECDSA/nistp256, RSA/sha1
+
+
+pesoanl Git token with office computer
+
+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
+
+GIT Token this is for personal computer
+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
+
+this is GitLab
+
+https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-VIRT-DATA-PT-12-2022-U-LOLC
+
+
+=CHOOSE(RANDBETWEEN(1,6),"Red","Blue","Yellow","Green","Purple","Orange")
