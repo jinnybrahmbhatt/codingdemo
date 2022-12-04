@@ -59,3 +59,6 @@ https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-VIRT-DATA-PT-12-2022-U-LOL
 
 
 =CHOOSE(RANDBETWEEN(1,6),"Red","Blue","Yellow","Green","Purple","Orange")
+
+new tokan created for personal PC
+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
